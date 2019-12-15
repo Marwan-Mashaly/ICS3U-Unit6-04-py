@@ -38,7 +38,7 @@ def main():
         print("")
 
     average = sum_of_numbers(a_2d_list, rows, columns)
-    print("The sum of all the numbers is: {0} ".format(average))
+    print("The average of all the numbers is: {0} ".format(average))
 
 
 if __name__ == "__main__":
